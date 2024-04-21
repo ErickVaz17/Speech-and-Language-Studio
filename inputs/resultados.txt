@@ -1,0 +1,58 @@
+RESULTADO GERAL DA ANALISE 
+------------------------------------
+Analyzed sentiment
+Document sentiment
+
+Negative
+Confidence: 0.00%
+POSITIVE 0.00%
+NEUTRAL 3.00%
+NEGATIVE 96.00%
+-------------------------------------
+Sentence 1
+Sentence sentiment: Negative
+
+Confidence: 0.00%
+POSITIVE: 0.00%
+NEUTRAL: 1.00%
+NEGATIVE: 98.00%
+
+Opinion
+Target: hotel
+Assessments:Tired (negative, 99.00%)
+
+Opinion
+Target: service
+Assessments:poor (negative, 99.00%)
+--------------------------------------
+Sentence 2
+Sentence sentiment: Negative
+
+Confidence: 0.00%
+POSITIVE: 0.00%
+NEUTRAL: 1.00%
+NEGATIVE: 99.00%
+
+Opinion
+Target: internet
+Assessments: work (negative, 100.00%)
+-----------------------------------------
+Sentence 3
+Sentence sentiment: Negative
+
+Confidence: 1.00%
+
+POSITIVE: 1.00%
+NEUTRAL: 8.00%
+NEGATIVE: 91.00%
+-------------------------------------------
+
+Um coisa que me chamou bastante atenção foi pelo Language Studio separar em frases e analisar parte por parte, e não o texto por completo não obtendo uma analise completa e detalhada.
+Cada sentença é uma separação de uma frase onde foi analisado e extraido os sentimentos.
+------------------------------------------------------------------------------------------------------------------------
+
+Esse texto foi gerado pelo Speech Studio, que eu utilizei para saber se ele conseguia entender e escrever a letra da música, ele errou algumas letras mas nada demais. 
+
+Música Navajo - Masego
+
+Yeah, yeah, yeah. Shout out the little lady. Novel. Naval. There she goes. Pay up. I love you. I love you. I love you. Enjoy. Until I find a way. Until I find a way to you. This. I know you see it, girl. This ain't sitting real good in my soul. Everywhere this little girl goes, she took up another obstetrical. She was my hiding. I don't know the tribe or the phone. But by default, she don't think of me. I thought she was an Indian. Now she's slanging things like I sent me in. All my life I wanted me and in the end. But now she's fighting away. They had to know. Listen. Little girl goes, she pick up. She was my heart. I don't know the tribal before. My default She don't think of me. I thought she wasn't in the end. But now she's slinging things like I sent me in. All my life I wanted me and then again. This is in the street where the wedding ring and she hit the box. Cindy vape, are you down in cheek? He looked in the eyes. Chivalry. Is it really there? He pulled out a tip, jumping right on him, thinking when he's a good day in the vein and I lost her. I said to the world and the girls and the posters entertained. I thought it'll pay in the Costa. I ain't mad at me but it hurts and I thought she wasn't in me. Benjamins. She been looking in my dreams. I said I swear to dies on me, but I hate to know, I said the sweat eyes on weed. I swear this is me playing saxophone with a saxophone with left at home. So I just got this. I said I swear to diesel. I need you. I need you. I need you. I need to let you see. What you mean to me? Until I feel OK, you will know where I live. 
